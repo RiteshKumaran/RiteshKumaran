@@ -44,6 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RiteshKumaran/RiteshKumaran/output/snake.svg" alt="Snake animation" />
+
 
 ###
