@@ -2,7 +2,7 @@
 🏫 I'm a freshman at SRMIST Ramapuram<br><br>🌱 I’m currently learning React.js and Python for backend<br><br>🤝 Technical member at GDSC SRMIST Ramapuram<br><br>🏸 I play badminton<br>
 
 
-### 🌐 Socials
+# 🌐 Socials
 <br clear="both">
 
 <div align="center">
