@@ -1,22 +1,11 @@
-<h2 align="center">Hi 👋 I'm Ritesh, first year Computer Science Student at SRM Ramapuram.</h2>
+# 💫 About Me:
+🏫 I'm a freshman at SRMIST Ramapuram<br><br>🌱 I’m currently learning React.js and Python for backend<br><br>🤝 Technical member at GDSC SRMIST Ramapuram<br><br>🏸 I play badminton<br>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RiteshKumaran/count.svg?"  />
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ritzzzz._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshkumaran) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/i_riteshkumaran) 
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RiteshKumaran&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiteshKumaran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
+###💻 Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -28,24 +17,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-
 ###
 
-<br clear="both">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RiteshKumaran&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RiteshKumaran&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKumaran&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/riteshkumaran/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/_ritzzzz._/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RiteshKumaran&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RiteshKumaran&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
- <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake"  />
+---
+[![](https://visitcount.itsvg.in/api?id=RiteshKumaran&icon=2&color=12)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-###
