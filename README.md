@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I'm a Sophomore in CSE at SRM Ramapuram<br><br>🌱 I’m currently learning React.js and Node.js for backend<br><br>🤝 Technical member at DSC SRMIST Ramapuram<br><br>🏸 I play badminton<br>
+🏫 I'm a CSE Pre-final year student at SRM Ramapuram<br><br>🌱 I’m currently learning React.js and Node.js for backend<br><br>🤝 Technical Laed at DSC SRMIST Ramapuram<br><br>🏸 I play badminton<br>
 
 
 # 🌐 Socials
